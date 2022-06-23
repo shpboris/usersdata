@@ -1,4 +1,4 @@
-package usersrdata
+package usersdata
 
 type User struct {
 	Id     string `json:"userid"`
