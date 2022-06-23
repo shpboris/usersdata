@@ -1,4 +1,4 @@
-package test
+package mytest
 
 type TestUser struct {
 	Id             string `json:"userid"`
